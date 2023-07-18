@@ -30,5 +30,7 @@ AIM : Display month name using When<br/>
 ### Practical 1.6<br/>
 AIM : By using a user defined function perform all arithmetic operations.<br/>
 
+![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/806366e6-c314-4acf-9bc6-6690e80664f1)
+
 ### Practical 1.7<br/>
 AIM : Find the factorial of number by recursion. Explain "tailrec" keyword.<br/>
