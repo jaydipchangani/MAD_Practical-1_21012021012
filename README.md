@@ -24,6 +24,9 @@ AIM : Find the number is odd or even by using Control Flow inside println() meth
 ### Practical 1.5<br/>
 AIM : Display month name using When<br/>
 
+![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/d7601724-8054-460f-ad80-a666647522b6)
+![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/91adde38-e74a-4a2a-8512-a147bc8ebc8a)
+
 ### Practical 1.6<br/>
 AIM : By using a user defined function perform all arithmetic operations.<br/>
 
