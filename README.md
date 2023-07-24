@@ -35,10 +35,17 @@ AIM : By using a user defined function perform all arithmetic operations.<br/>
 ### Practical 1.7<br/>
 AIM : Find the factorial of number by recursion. Explain "tailrec" keyword.<br/>
 
+![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/218d6432-4775-4eea-b2d3-391c77a329c1)
+
+
 ### Practical 1.8<br/>
 AIM : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/5aeceab8-047f-4a46-aa3b-84b4a8f11125)
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/16542d09-f0e0-4441-b8c3-d63851093654)
+
+### Practical 1.9<br/>
+AIM : Find the max number from ArrayList.
+
 
 
