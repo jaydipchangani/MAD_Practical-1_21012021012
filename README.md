@@ -31,12 +31,12 @@ AIM : Display month name using When<br/>
 AIM : By using a user defined function perform all arithmetic operations.<br/>
 
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/806366e6-c314-4acf-9bc6-6690e80664f1)
-![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/16542d09-f0e0-4441-b8c3-d63851093654)
-
 
 ### Practical 1.7<br/>
 AIM : Find the factorial of number by recursion. Explain "tailrec" keyword.<br/>
 
 ### Practical 1.8<br/>
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/5aeceab8-047f-4a46-aa3b-84b4a8f11125)
+![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/16542d09-f0e0-4441-b8c3-d63851093654)
+
 
