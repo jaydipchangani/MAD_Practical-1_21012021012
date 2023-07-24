@@ -36,6 +36,8 @@ AIM : By using a user defined function perform all arithmetic operations.<br/>
 AIM : Find the factorial of number by recursion. Explain "tailrec" keyword.<br/>
 
 ### Practical 1.8<br/>
+AIM : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/5aeceab8-047f-4a46-aa3b-84b4a8f11125)
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/16542d09-f0e0-4441-b8c3-d63851093654)
 
