@@ -44,7 +44,7 @@ AIM : Create different types of Array as shown in image. Explore Arrays.deepToSt
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/5aeceab8-047f-4a46-aa3b-84b4a8f11125)
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/16542d09-f0e0-4441-b8c3-d63851093654)
 
-### Practical 1.9<br/>
+###  Practical 1.9<br/>
 AIM : Find the max number from ArrayList.
 
 ![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/48b095e5-1887-4b4a-8be2-3f85a74e516a)
