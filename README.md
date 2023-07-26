@@ -52,5 +52,8 @@ AIM : Find the max number from ArrayList.
 ### Practical 1.10<br/>
 AIM : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 
+![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/b3d78d73-d4c2-42a0-8e4c-752995bb4868)
+![image](https://github.com/jaydipchangani/MAD_Practical-1_21012021012/assets/98078979/e8e053e6-4486-45c3-bd4b-fb9c64bb64b3)
+
 ### Practical 1.11<br/>
 AIM : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
